@@ -18,8 +18,11 @@ It is a Test Project for XOSS company Ltd. If you want to test this project on y
 3.First User will merchent, If you want to manipulate all blog please from merchant go to merchant/dashboard but one thing you have to do, check your user role, only 2 role can see merchant dashboard.
 
 4.This project is running on Laravel 11
+
 5.Performance is 87 on web view. I put it's screenshot inside of public directory. And image name is performance.png.
+
 6.Actually time was short that's why I didn't focus on design. I just focused on funcionality. Some thing I made simplist cause it's a test project.
+
 
 
 If you want to contact with me,
