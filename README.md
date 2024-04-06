@@ -20,7 +20,7 @@ It is a Test Project for XOSS company Ltd. If you want to test this project on y
 4.This project is running on Laravel 11
 
 5.Performance is 87 on web view. I put it's screenshot inside of public directory. And image name is performance.png.
-<img src="https://github.com/rahmanhabib0005/XOSS-TEST-Project/public/performance.png" width="400" alt="Laravel Logo">
+<img src="https://github.com/rahmanhabib0005/XOSS-TEST-Project/tree/main/public/performance.png" width="400" alt="Laravel Logo">
 
 6.Actually time was short that's why I didn't focus on design. I just focused on funcionality. Some thing I made simplist cause it's a test project.
 
